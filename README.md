@@ -50,9 +50,6 @@ To run this project locally, follow these steps:
 ## Results
 Key findings and visualizations are stored in the `results/` directory. These include sentiment distributions, topic word clouds, and statistical summaries.
 
-## Contributing
-Pull requests are welcome! If you have suggestions for improvements or additional features, feel free to submit an issue or fork the repository.
-
 ## Acknowledgments
 - Rutgers Bloustein MPI for organizing the competition.
 - Open-source NLP and data science communities for tools and resources.
