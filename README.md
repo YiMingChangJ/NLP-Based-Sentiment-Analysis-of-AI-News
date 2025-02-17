@@ -53,9 +53,6 @@ Key findings and visualizations are stored in the `results/` directory. These in
 ## Contributing
 Pull requests are welcome! If you have suggestions for improvements or additional features, feel free to submit an issue or fork the repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Rutgers Bloustein MPI for organizing the competition.
 - Open-source NLP and data science communities for tools and resources.
