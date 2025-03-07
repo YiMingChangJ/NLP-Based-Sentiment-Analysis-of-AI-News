@@ -22,37 +22,8 @@ This project was developed for the RAISE-25 competition hosted by Rutgers Bloust
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/RAISE-25-Competition.git
-   cd RAISE-25-Competition
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```sh
-   python -m venv env
-   source env/bin/activate  # On macOS/Linux
-   env\Scripts\activate  # On Windows
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Run the analysis:
-   ```sh
-   python main.py
-   ```
-
-## Usage
-- Modify the `config.json` file to change data sources or parameters.
-- Run `notebooks/EDA.ipynb` to explore the dataset.
-- Use `sentiment_analysis.py` to classify headlines based on sentiment.
-- Execute `topic_modeling.py` to extract key topics from the dataset.
-
-## Results
-Key findings and visualizations are stored in the `results/` directory. These include sentiment distributions, topic word clouds, and statistical summaries.
-
 ## Acknowledgments
-- Rutgers Bloustein MPI for organizing the competition.
+- Rutgers Bloustein Scholl for organizing the competition.
 - Open-source NLP and data science communities for tools and resources.
 
 ---
