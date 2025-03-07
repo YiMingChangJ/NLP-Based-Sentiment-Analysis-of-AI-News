@@ -13,6 +13,7 @@ This project was developed for the RAISE-25 competition hosted by Rutgers Bloust
 ## Technologies Used
 - **Python**: Primary programming language
 - **NLTK / spaCy**: Natural language processing
+- **TestBlob/vanderSentiment**: Evaluate the sentimental values of AI news
 - **scikit-learn**: Machine learning models and text vectorization
 - **Matplotlib / Seaborn / Plotly**: Data visualization
 - **Pandas / NumPy**: Data manipulation and statistical analysis
