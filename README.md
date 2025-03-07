@@ -1,7 +1,7 @@
 # RAISE-25 Competition: AI's Impact on Education, Careers, and Society
 
 ## Overview
-This project was developed for the RAISE-25 competition hosted by Rutgers Bloustein MPI. The competition focuses on analyzing news headlines to explore AI's impact on education, careers, and society. The analysis involves natural language processing (NLP), data visualization, and machine learning techniques to extract meaningful insights from text data.
+This project was developed for the RAISE-25 competition hosted by Rutgers Bloustein School. The competition focuses on analyzing news headlines to explore AI's impact on education, careers, and society. The analysis involves natural language processing (NLP), data visualization, and machine learning techniques to extract meaningful insights from text data.
 
 ## Features
 - **Data Collection & Cleaning**: Preprocessing of news headlines to remove noise and standardize text for analysis.
